@@ -21,7 +21,7 @@ If you were logging packets of NFSTR before, or you know how to code. Please fil
 ## Other dead autolog titles 
 Shift 2 Unleashed - **https://github.com/NFSOR/shift2unleashed**
 
-
+Hot Pursuit 2010 - **https://github.com/NFSOR/hotpursuit2010**
 
 ## I have a code that I would like to upload, how?
 Please fork this repository, and then make a pull request. We will carefully review all of them and approve you as soon as possible.
