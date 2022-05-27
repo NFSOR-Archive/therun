@@ -23,8 +23,8 @@ Shift 2 Unleashed - **https://github.com/NFSOR/shift2unleashed**
 
 
 
-
-
+## I have a code that I would like to upload, how?
+Please fork this repository, and then make a pull request. We will carefully review all of them and approve you as soon as possible.
 
 
 
