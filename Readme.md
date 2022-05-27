@@ -18,7 +18,8 @@ If you were logging packets of NFSTR before, or you know how to code. Please fil
 
 
 
-
+## Other dead autolog titles 
+Shift 2 Unleashed - **https://github.com/NFSOR/shift2unleashed**
 
 
 
