@@ -1,4 +1,4 @@
-# Need for The Run
+# Need for Speed The Run
 Server for NFSTR, Coded by everyone in the community :)
 
 
